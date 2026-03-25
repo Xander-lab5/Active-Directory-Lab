@@ -1,30 +1,30 @@
-\# Client Domain Join
+# Client Domain Join
 
 
 
-\## Overview
+## Overview
 
 Connected a Windows 11 client machine to the Active Directory domain.
 
 
 
-\## Steps
+## Steps
 
-\- Configured DNS on client:
+- Configured DNS on client:
 
-&#x20; - DNS: 192.168.10.10
+    - DNS: 192.168.10.10
 
-\- Verified connectivity to Domain Controller
+- Verified connectivity to Domain Controller
 
-\- Joined domain:
+- Joined domain:
 
-&#x20; - Domain: corp.local
+    - Domain: corp.local
 
-\- Restarted client machine
+- Restarted client machine
 
 
 
-\## Outcome
+## Outcome
 
 Client successfully joined to domain and able to authenticate users.
 

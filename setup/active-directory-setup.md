@@ -1,26 +1,26 @@
-\# Active Directory Setup
+# Active Directory Setup
 
 
 
-\## Overview
+## Overview
 
 Promoted the server to a Domain Controller and created a new domain.
 
 
 
-\## Steps
+## Steps
 
-\- Promoted server to Domain Controller
+- Promoted server to Domain Controller
 
-\- Created new forest:
+- Created new forest:
 
-&#x20; - Domain: corp.local
+    - Domain: corp.local
 
-\- Configured DNS automatically during promotion
+- Configured DNS automatically during promotion
 
 
 
-\## Outcome
+## Outcome
 
 Active Directory environment successfully created with domain corp.local.
 

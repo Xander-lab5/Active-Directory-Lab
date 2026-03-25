@@ -1,32 +1,31 @@
-\# Domain Controller Setup
+# Domain Controller Setup
 
 
 
-\## Overview
+## Overview
 
 Set up a Windows Server 2019 virtual machine to act as a Domain Controller.
 
 
 
-\## Steps
+## Steps
 
-\- Installed Windows Server 2019 (Desktop Experience)
+- Installed Windows Server 2019 (Desktop Experience)
 
-\- Renamed server to DC01
+- Renamed server to DC01
 
-\- Configured static IP:
+- Configured static IP:
+     - IP: 192.168.10.10
 
-&#x20; - IP: 192.168.10.10
+    - Subnet: 255.255.255.0
 
-&#x20; - Subnet: 255.255.255.0
+    - DNS: 127.0.0.1
 
-&#x20; - DNS: 127.0.0.1
-
-\- Installed Active Directory Domain Services (AD DS)
-
+- Installed Active Directory Domain Services (AD DS)
 
 
-\## Outcome
+
+## Outcome
 
 Server prepared for promotion to Domain Controller.
 
