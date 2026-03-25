@@ -28,3 +28,4 @@ Connected a Windows 11 client machine to the Active Directory domain.
 
 Client successfully joined to domain and able to authenticate users.
 
+[← Back to README](../README.md)
