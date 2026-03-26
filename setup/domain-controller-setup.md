@@ -13,7 +13,8 @@ Set up a Windows Server 2019 virtual machine to act as a Domain Controller.
 - Installed Windows Server 2019 (Desktop Experience)
 
 - Renamed server to DC01  
-![Rename DC](../screenshots/domain-controller-setup/DC01_rename.png)
+
+    ![Rename DC](../screenshots/domain-controller-setup/DC01_rename.png)
 
 - Configured static IP:
      - IP: 192.168.10.10
