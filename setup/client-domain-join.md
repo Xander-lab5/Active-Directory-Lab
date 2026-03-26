@@ -12,11 +12,14 @@ Connected a Windows 11 client machine to the Active Directory domain.
 
 - Configured DNS on client:
 
-    - DNS: 192.168.10.10
+    - DNS: 192.168.10.10  
+    ![NLTest](../screenshots/client_domain_setup/ip-config.png)
+
 
 - Verified connectivity to Domain Controller
-#### Domain Controller Discovery
-![NLTest](../screenshots/client_domain_setup/nltest-dc-discovery.png)
+
+    #### Domain Controller Discovery
+    ![NLTest](../screenshots/client_domain_setup/nltest-dc-discovery.png)
 
 - Joined domain:
 
