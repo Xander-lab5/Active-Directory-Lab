@@ -51,16 +51,40 @@ The focus is on developing practical skills required for Service Desk roles, inc
 ## Scenarios
 
 ### 1. User Creation and Login
-Created a new user in Active Directory and successfully authenticated on a domain-joined client machine.
+Created a new user in Active Directory and successfully authenticated on a domain-joined client machine.     
+### User Creation
+![User creation](./screenshots/scenarios/user-creation-AD.png)
+
+### User Login
+![User Log On](./screenshots/scenarios/client-logon.png)
 
 ### 2. Password Reset
 Reset a user password through Active Directory and verified successful login with updated credentials.
+### Reset Password
+![reset password](./screenshots/scenarios/reset-password.png)
+
+### User Logon    
+![User Log On](./screenshots/scenarios/client-logon.png)
+
+
 
 ### 3. Account Lockout and Recovery
 Simulated failed login attempts, identified account lockout, and restored access by unlocking the account.
+### Failed Login Attempts
+![Failed login attempts](./screenshots/scenarios/muti-logon-fail.png)
+
+### Unlock Account    
+![Unlock account](./screenshots/scenarios/unlock-account.png)
+
 
 ### 4. User Offboarding (Account Disable)
 Disabled a user account and confirmed access was blocked on login attempt.
+
+### User Disabled
+![User disabled](./screenshots/scenarios/user-account-disabled.png)
+
+### Unlock Account    
+![Unlock account](./screenshots/scenarios/user-logon-disabled.png)
 
 ---
 
