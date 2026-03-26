@@ -1,9 +1,9 @@
 # Active Directory Home Lab
 
 ## Overview
-This project demonstrates the setup and administration of a Windows Active Directory environment within a virtual lab. The lab simulates a basic enterprise network, including a Domain Controller and a domain-joined client machine.
+This lab was built to simulate real-world IT support scenarios in an Active Directory environment. The lab simulates a basic enterprise network, including a Domain Controller and a domain-joined client machine.
 
-The goal of this project is to develop practical IT support skills such as user management, authentication troubleshooting, and system administration.
+The focus is on developing practical skills required for Service Desk roles, including user management, authentication troubleshooting, and domain connectivity issues.
 
 ---
 
@@ -70,6 +70,14 @@ Screenshots for each scenario and setup step are included in the `/screenshots` 
 
 ---
 
+## Troubleshooting Approach
+
+- Identified issues through systematic checks (network, DNS, authentication)
+- Used tools such as ping, nslookup, and nltest to diagnose connectivity
+- Applied step-by-step resolution and verified successful outcomes
+
+---
+
 ## What I Learned
 
 - How Active Directory manages authentication and user access
@@ -77,10 +85,4 @@ Screenshots for each scenario and setup step are included in the `/screenshots` 
 - Troubleshooting login and account-related issues
 - Simulating real-world IT support scenarios in a lab environment
 
----
 
-## Next Steps
-
-- Expand into Group Policy configuration
-- Simulate more advanced troubleshooting scenarios
-- Integrate cloud-based identity solutions (Azure AD / Entra ID)
