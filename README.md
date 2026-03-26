@@ -83,8 +83,8 @@ Disabled a user account and confirmed access was blocked on login attempt.
 ### User Disabled
 ![User disabled](./screenshots/scenarios/user-account-disabled.png)
 
-### Unlock Account    
-![Unlock account](./screenshots/scenarios/user-logon-disabled.png)
+### Account Disable   
+![Account disabled](./screenshots/scenarios/user-logon-disabled.png)
 
 ---
 
